@@ -1,0 +1,7 @@
+mountpoints:
+  /: https://drive.google.com/drive/folders/1WFOxK5QALzogk4heF-tPJF-vcXfAqfyJ        # ← paste here
+
+# Add admin configuration
+admin:
+  - email: gaurav.e.singh@capgemini.com
+    role: admin
