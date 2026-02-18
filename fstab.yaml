@@ -1,7 +1,2 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1WFOxK5QALzogk4heF-tPJF-vcXfAqfyJ        # ← paste here
-
-# Admin users
-admin:
-  users:
-    - email: gaurav.e.singh@capgemini.com
+  /: https://drive.google.com/drive/folders/1WFOxK5QALzogk4heF-tPJF-vcXfAqfyJ
